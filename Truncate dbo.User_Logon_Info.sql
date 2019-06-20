@@ -1,0 +1,1 @@
+TRUNCATE TABLE OMSQLDB.dbo.user_logon_info;
